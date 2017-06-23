@@ -90,9 +90,9 @@ ITEM_PIPELINES = {
 # HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 #  start MySQL database configure setting
 
-MYSQL_HOST = 'rdsfjnifbfjnifbo.mysql.rds.aliyuncs.com'
+MYSQL_HOST = '**'
 MYSQL_DBNAME = 'scrapy'
 MYSQL_USER = 'scrapy'
-MYSQL_PASSWD = '201671Zhuang'
+MYSQL_PASSWD = '**'
 
 # end of MySQL database configure setting
